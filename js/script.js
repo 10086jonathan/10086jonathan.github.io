@@ -1,7 +1,7 @@
 // constants and variables
 const { openWeatherAPIKey } = CONFIG;
 
-const API_KEY = openWeatherAPIKey;
+API_KEY = openWeatherAPIKey;
 
 const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather?';
 
